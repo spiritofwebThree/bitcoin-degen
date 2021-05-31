@@ -1,0 +1,8 @@
+{
+  "name": "bitcoin-degen",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "ac3231ae"
+}

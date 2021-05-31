@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "bitcoin-degen",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
